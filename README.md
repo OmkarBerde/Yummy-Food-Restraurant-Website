@@ -1,5 +1,6 @@
 # Yummy-Food-Restraurant-Website
 YummyFoodWebsite is a delightful restaurant website crafted with HTML, CSS, Bootstrap, and JavaScript, designed to showcase the delectable offerings of a food establishment
+
 1.Interactive Design: Incorporates JavaScript for interactive elements such as dynamic menus, image sliders, and user-friendly forms to enhance user engagement.
 
 2.Responsive Layout: Implements Bootstrap's responsive grid system to ensure seamless accessibility and optimal viewing experience across diverse devices and screen sizes.
